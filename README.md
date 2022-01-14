@@ -1,0 +1,3 @@
+# api
+django rest-framewrok api created by me check it out......
+make sure you have install python new verion also rest api into your device
